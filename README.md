@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💸 Student Expense Tracker (Streamlit)
 
 A simple web app to add expenses, store them in a CSV file, and view spending summaries by category.
